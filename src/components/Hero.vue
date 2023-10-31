@@ -4,7 +4,7 @@
     <h2>Front end engineer</h2>
     <p class="description">
       I am a front end engineer, focused on creating great experiences through
-      the latest web tecnologies. I enjoy camping and skateboarding.
+      the latest web tecnologies. I enjoy camping and skateboarding. 🚧
     </p>
   </div>
 </template>
